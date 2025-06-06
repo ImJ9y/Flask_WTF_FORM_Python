@@ -13,7 +13,7 @@ defusedxml==0.7.1
 docopt==0.6.2
 executing==2.2.0
 fastjsonschema==2.21.1
-Flask==3.1.0
+Flask==3.1.1
 Flask-WTF==1.2.2
 idna==3.10
 ipython==8.12.3
@@ -51,7 +51,7 @@ six==1.17.0
 soupsieve==2.6
 stack-data==0.6.3
 tinycss2==1.4.0
-tornado==6.4.2
+tornado==6.5
 traitlets==5.14.3
 typing_extensions==4.13.0
 urllib3==2.3.0
